@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+colorama==0.4.4
+fpdf==1.7.2
+idna==3.3
+iiif-downloader==0.0.8
+Pillow==9.0.0
+requests==2.27.1
+tqdm==4.62.3
+urllib3==1.26.8
